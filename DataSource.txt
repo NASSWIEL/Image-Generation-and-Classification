@@ -1,0 +1,3 @@
+For our project, we used the set of images that you would find at the following link : 
+
+!wget https://www.lirmm.fr/~poncelet/Ressources/Tiger-Fox-Elephant.zip
