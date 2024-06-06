@@ -1,3 +1,3 @@
-For our project, we used the set of images that you would find at the following link : 
+For our project, we utilized a curated collection of images accessible via the link provided below: 
 
 !wget https://www.lirmm.fr/~poncelet/Ressources/Tiger-Fox-Elephant.zip
