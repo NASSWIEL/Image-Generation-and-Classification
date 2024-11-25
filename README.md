@@ -1,5 +1,5 @@
 ### Project Overview
- This repository contains the work from a collaborative final semester project for a bachelor's degree, completed by a team of four students. The primary objective of the project was to explore deep learning techniques for image classification and generation, with a focus on supervised learning using Convolutional Neural Networks (CNNs) and advanced generative models.
+ This repository contains the work from a collaborative final semester project for a bachelor's degree, completed by a team of four students including me. The primary objective of the project was to explore deep learning techniques for image classification and generation, with a focus on supervised learning using Convolutional Neural Networks (CNNs) and advanced generative models.
 
  ### Objectives and Achievements
 * **Image Classification**: We implemented CNNs to classify images (e.g., distinguishing tigers from non-tigers). To address the challenge of a limited dataset, we utilized image data augmentation techniques to enhance our training set. Furthermore, we incorporated transfer learning, adapting models like ResNet to improve classification accuracy.
